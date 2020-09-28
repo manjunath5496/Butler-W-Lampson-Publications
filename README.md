@@ -1,3 +1,81 @@
+<table class="infobox biography vcard">
+<tbody>
+<tr>
+<th colspan="2">
+<div class="fn">Butler Lampson</div>
+</th>
+</tr>
+<tr>
+<td colspan="2"><a class="image" href="220px-Butler_Lampson_Royal_Society.jpg"><img src="220px-Butler_Lampson_Royal_Society.jpg" srcset="220px-Butler_Lampson_Royal_Society.jpg" alt="Butler Lampson Royal Society.jpg" width="220" height="330" data-file-width="576" data-file-height="864" /></a>
+<div>Butler Lampson at the&nbsp;<a title="Royal Society" href="https://en.wikipedia.org/wiki/Royal_Society">Royal Society</a>&nbsp;admissions day in London, July 2018</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>
+<div class="nickname">Butler W. Lampson</div>
+<br />December 23, 1943<span class="noprint ForceAgeToShow">&nbsp;(age&nbsp;76)</span><br />
+<div class="birthplace">Washington, D.C.</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Alma&nbsp;mater</th>
+<td><a title="Harvard University" href="https://en.wikipedia.org/wiki/Harvard_University">Harvard University</a>&nbsp;(AB)<br /><a title="University of California, Berkeley" href="https://en.wikipedia.org/wiki/University_of_California,_Berkeley">University of California, Berkeley</a>&nbsp;(PhD)</td>
+</tr>
+<tr>
+<th scope="row">Known&nbsp;for</th>
+<td><a title="SDS 940" href="https://en.wikipedia.org/wiki/SDS_940">SDS 940</a>,&nbsp;<a title="Xerox Alto" href="https://en.wikipedia.org/wiki/Xerox_Alto">Xerox Alto</a></td>
+</tr>
+<tr>
+<th scope="row">Awards</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a title="Turing Award" href="https://en.wikipedia.org/wiki/Turing_Award">Turing Award</a>&nbsp;(1992)</li>
+<li><a title="ACM Fellow" href="https://en.wikipedia.org/wiki/ACM_Fellow">ACM Fellow</a>&nbsp;(1994)</li>
+<li><a title="IEEE John von Neumann Medal" href="https://en.wikipedia.org/wiki/IEEE_John_von_Neumann_Medal">IEEE John von Neumann Medal</a>&nbsp;(2001)</li>
+<li><a title="Member of the National Academy of Sciences" href="https://en.wikipedia.org/wiki/Member_of_the_National_Academy_of_Sciences">Member of the National Academy of Sciences</a>&nbsp;(2005)</li>
+<li><a title="Charles Stark Draper Prize" href="https://en.wikipedia.org/wiki/Charles_Stark_Draper_Prize">Draper Prize</a>&nbsp;(2004)</li>
+<li><a class="mw-redirect" title="Foreign Member of the Royal Society" href="https://en.wikipedia.org/wiki/Foreign_Member_of_the_Royal_Society">Foreign Member of the Royal Society</a>&nbsp;(2018)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Scientific career</strong></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a title="Computer science" href="https://en.wikipedia.org/wiki/Computer_science">Computer science</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a title="University of California, Berkeley" href="https://en.wikipedia.org/wiki/University_of_California,_Berkeley">University of California, Berkeley</a><br /><a class="mw-redirect" title="Xerox PARC" href="https://en.wikipedia.org/wiki/Xerox_PARC">Xerox PARC</a><br /><a title="Digital Equipment Corporation" href="https://en.wikipedia.org/wiki/Digital_Equipment_Corporation">Digital Equipment Corporation</a><br /><a title="Microsoft" href="https://en.wikipedia.org/wiki/Microsoft">Microsoft</a><br /><a title="Massachusetts Institute of Technology" href="https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology">Massachusetts Institute of Technology</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="Thesis" href="https://en.wikipedia.org/wiki/Thesis">Thesis</a></th>
+<td><a class="external text" href="http://oskicat.berkeley.edu/record=b14306499" rel="nofollow"><em>Scheduling and Protection in an Interactive Multi-Processor System</em></a>&nbsp;(1967)</td>
+</tr>
+<tr>
+<th scope="row"><a title="Doctoral advisor" href="https://en.wikipedia.org/wiki/Doctoral_advisor">Doctoral advisor</a></th>
+<td><a title="Harry Huskey" href="https://en.wikipedia.org/wiki/Harry_Huskey">Harry Huskey</a></td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a class="external text" href="https://web.archive.org/web/20081202174014/http://research.microsoft.com/lampson/" rel="nofollow">research.microsoft.com/lampson</a></span>&nbsp;<small>(archived)</small></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<p><strong>Butler W. Lampson</strong>,&nbsp;<a class="mw-redirect" title="ForMemRS" href="https://en.wikipedia.org/wiki/ForMemRS">ForMemRS</a>, (born December 23, 1943) is an American&nbsp;<a title="Computer scientist" href="https://en.wikipedia.org/wiki/Computer_scientist">computer scientist</a>&nbsp;best known for his contributions to the development and implementation of distributed&nbsp;<a class="mw-redirect" title="Personal computing" href="https://en.wikipedia.org/wiki/Personal_computing">personal computing</a>.</p>
+
+
+</br>
+
+
+
+
 <h2> Publications </h2>
 
 <ul>
