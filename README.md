@@ -161,6 +161,22 @@ Putting Information Infrastructure on the Technology Curve</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(86).pdf" style="text-decoration:none;">The ABCD's of Paxos</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(87).pdf" style="text-decoration:none;">A User Machine in a Time-Sharing System </a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(88).pdf" style="text-decoration:none;">Authentication in the Taos
-Operating System</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(88).pdf" style="text-decoration:none;">Bulk Collection of Signals Intelligence: Technical Options</a></li>
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(89).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(90).pdf" style="text-decoration:none;">Lazy and Speculative Execution in Computer Systems</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(91).pdf" style="text-decoration:none;">Declarative programming: The light at the end of the tunnel </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(92).pdf" style="text-decoration:none;">Lazy and Speculative Execution</a></li>
+  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(93).pdf" style="text-decoration:none;">Usable security — How to get it</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(94).pdf" style="text-decoration:none;">Technical Perspective:
+Making Untrusted Code Useful</a></li>
+  
+  
+  
+  
+  
+  
+  
   </ul>
