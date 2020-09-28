@@ -87,76 +87,80 @@ in a Log-structured File System</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(50).pdf" style="text-decoration:none;">Fundamental Study:
 Revisiting the PAXOS algorithm</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(51).pdf" style="text-decoration:none;">MS-UEdin Submission to the WMT2018 APE Shared Task: Dual-Source Transformer for Automatic Post-Editing</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(52).pdf" style="text-decoration:none;">Pre-training on high-resource speech recognition improves low-resource speech-to-text translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(51).pdf" style="text-decoration:none;">Getting Computers to Understand</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(52).pdf" style="text-decoration:none;">Computing meets the physical world. The Bridge</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(53).pdf" style="text-decoration:none;">FRAGE: Frequency-Agnostic Word Representation </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(53).pdf" style="text-decoration:none;">A Trusted
+Open Platform</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(54).pdf" style="text-decoration:none;">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(54).pdf" style="text-decoration:none;">Computer Security in the Real World </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(55).pdf" style="text-decoration:none;">Latent Variable Model for Multi-modal Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(55).pdf" style="text-decoration:none;">Software Components: Only
+The Giants Survive</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(56).pdf" style="text-decoration:none;">Addressing Word-order Divergence in Multilingual Neural Machine Translation for extremely Low Resource Languages </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(56).pdf" style="text-decoration:none;">A Conceptual Authorization Model for Web Services </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(57).pdf" style="text-decoration:none;">Bi-Directional Differentiable Input Reconstruction for Low-Resource Neural Machine Translation </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(57).pdf" style="text-decoration:none;">Getting Up to Speed: The Future of Supercomputing </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(58).pdf" style="text-decoration:none;">Neural Machine Translation with Adequacy-Oriented Learning</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(59).pdf" style="text-decoration:none;">Non-Autoregressive Neural Machine Translation with Enhanced Decoder Input</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(58).pdf" style="text-decoration:none;">The Ongoing Computer Revolution</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(59).pdf" style="text-decoration:none;">Practical Principles for Computer Security </a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(60).pdf" style="text-decoration:none;">Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(60).pdf" style="text-decoration:none;">Textual Features for Programming by Example</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(61).pdf" style="text-decoration:none;">Cross-lingual Language Model Pretraining</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(61).pdf" style="text-decoration:none;">A Machine Learning Framework for Programming by Example</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(62).pdf" style="text-decoration:none;">The Evolved Transformer</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(62).pdf" style="text-decoration:none;">Protection</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(63).pdf" style="text-decoration:none;">Non-Monotonic Sequential Text Generation</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(63).pdf" style="text-decoration:none;">Guest Editorial</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(64).pdf" style="text-decoration:none;">Context-Aware Self-Attention Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(64).pdf" style="text-decoration:none;">A Note on the Confinement Problem </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(65).pdf" style="text-decoration:none;">Dynamic Layer Aggregation for Neural Machine Translation with Routing-by-Agreement </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(65).pdf" style="text-decoration:none;">Reflections on an Operating System Design </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(66).pdf" style="text-decoration:none;">Saliency Learning: Teaching the Model Where to Pay Attention</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(66).pdf" style="text-decoration:none;">Crash Recovery in a Distributed Data Storage System </a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(67).pdf" style="text-decoration:none;">Star-Transformer</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(67).pdf" style="text-decoration:none;">An Open Operating System for a Single-User Machine </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(68).pdf" style="text-decoration:none;">Cross-Lingual Alignment of ContextualWord Embeddings, with Applications to Zero-shot Dependency Parsing</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(68).pdf" style="text-decoration:none;">Experience with Processes and Monitors in Mesa </a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(69).pdf" style="text-decoration:none;">Improving Robustness of Machine Translation with Synthetic Noise</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(69).pdf" style="text-decoration:none;">A processor for a high-performance personal computer</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(70).pdf" style="text-decoration:none;">Lost in Machine Translation: A Method to Reduce Meaning Loss</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(70).pdf" style="text-decoration:none;">Hints for Computer System Design</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(71).pdf" style="text-decoration:none;">Attention is not Explanation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(71).pdf" style="text-decoration:none;">Designing a Global Name Service</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(72).pdf" style="text-decoration:none;">Non-Autoregressive Machine Translation with Auxiliary Regularization</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(72).pdf" style="text-decoration:none;">A Global Authentication Service without Global Trust </a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(73).pdf" style="text-decoration:none;">Reinforcement Learning based Curriculum Optimization for Neural Machine Translation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(74).pdf" style="text-decoration:none;">Non-Parametric Adaptation for Neural Machine Translation</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(75).pdf" style="text-decoration:none;">Massively Multilingual Neural Machine Translation</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(76).pdf" style="text-decoration:none;">Context-Aware Cross-Lingual Mapping</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(73).pdf" style="text-decoration:none;">Personal Distributed Computing: The Alto and Ethernet Software </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(74).pdf" style="text-decoration:none;">Why Alto. Internal memo</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(75).pdf" style="text-decoration:none;">Computer Security</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(76).pdf" style="text-decoration:none;">Authentication in Distributed Systems: Theory and Practice</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(77).pdf" style="text-decoration:none;">On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(77).pdf" style="text-decoration:none;">Reliable Messages and Connection Establishment</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(78).pdf" style="text-decoration:none;">compare-mt: A Tool for Holistic Comparison of Language Generation Systems</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(79).pdf" style="text-decoration:none;">Probing the Need for Visual Context in Multimodal Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(78).pdf" style="text-decoration:none;">Interconnecting Computers:
+Architecture, Technology, and Economics</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(79).pdf" style="text-decoration:none;">Virtual Infrastructure:
+Putting Information Infrastructure on the Technology Curve</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(80).pdf" style="text-decoration:none;">Selective Attention for Context-aware Neural Machine Translation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(80).pdf" style="text-decoration:none;">How to Build a Highly Available System Using Consensus</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(81).pdf" style="text-decoration:none;">Pre-trained Language Model Representations for Language Generation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(82).pdf" style="text-decoration:none;">Competence-based Curriculum Learning for Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(81).pdf" style="text-decoration:none;">SDSI - A Simple Distributed Security Infrastructure</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(82).pdf" style="text-decoration:none;">Revisiting the Paxos algorithm</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(83).pdf" style="text-decoration:none;">Aligning Vector-spaces with Noisy Supervised Lexicons</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(84).pdf" style="text-decoration:none;">Train, Sort, Explain: Learning to Diagnose Translation Models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(83).pdf" style="text-decoration:none;">SPKI Certificate Theory</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(84).pdf" style="text-decoration:none;">Information Systems Security</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(85).pdf" style="text-decoration:none;">Lost in Interpretation:
-Predicting Untranslated Terminology in Simultaneous Interpretation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(86).pdf" style="text-decoration:none;">Learning to Stop in Structured Prediction for Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(85).pdf" style="text-decoration:none;">Computer Security in the Real World</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(86).pdf" style="text-decoration:none;">The ABCD's of Paxos</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(87).pdf" style="text-decoration:none;">Extract and Edit: An Alternative to Back-Translation for Unsupervised Neural Machine Translation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(88).pdf" style="text-decoration:none;">Consistency by Agreement in Zero-shot Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(87).pdf" style="text-decoration:none;">A User Machine in a Time-Sharing System </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Butler-W-Lampson-Publications/blob/master/lamp(88).pdf" style="text-decoration:none;">Authentication in the Taos
+Operating System</a></li>
   </ul>
